@@ -7,7 +7,7 @@ This is my web beginner final projects, by KSM ANDROID
 (Dengan nama Database andro_9, terdapat 2 tabel yaitu akun, produk)
 
 <table>
-  <tr><td><strong>Sun Florist</strong></td><td><strong>Android</strong></td></tr>
+  <tr><td><strong>Sun Florist</strong></td></tr>
   <tr>
     <td><p align="center"><img src="/Pictures/Screenshot-login.png"></p></td>
     <td><p align="center"><img src="/Pictures/Screenshot-view.png"></p></td>
