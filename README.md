@@ -1,8 +1,10 @@
 # FP_WEB_BEGINNER
 This is my web beginner final projects, by KSM ANDROID
 
-- Membuat beberapa tampilan halaman website menerapkan konsep CRUD dengan menggunakan HTML, CSS, dan PHP
-- Dengan nama Database andro_9, terdapat 2 tabel yaitu akun, produk
+- Create multiple website page views applying the concept of CRUD using HTML, CSS, and PHP
+(Membuat beberapa tampilan halaman website menerapkan konsep CRUD dengan menggunakan HTML, CSS, dan PHP)
+- With the name Database andro_9, there are 2 tables, namely akun, produk
+(Dengan nama Database andro_9, terdapat 2 tabel yaitu akun, produk)
 
 <table>
   <tr><td><strong>iOS</strong></td><td><strong>Android</strong></td></tr>
