@@ -1,7 +1,7 @@
 # FP_WEB_BEGINNER
 This is my web beginner final projects, by KSM ANDROID
 
-- Membuat beberapa tampilan halaman webite dengan menggunakan HTML, CSS, dan PHP
+- Membuat beberapa tampilan halaman website menerapkan konsep CRUD dengan menggunakan HTML, CSS, dan PHP
 - Dengan nama Database andro_9, terdapat 2 tabel yaitu akun, produk
 
 <table>
