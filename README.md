@@ -7,9 +7,9 @@ This is my web beginner final projects, by KSM ANDROID
 <table>
   <tr><td><strong>iOS</strong></td><td><strong>Android</strong></td></tr>
   <tr>
-    <td><p align="center"><img src="/Pictures/Screenshot-login.png" height="500"></p></td>
-    <td><p align="center"><img src="/Pictures/Screenshot-view.png" height="500"></p></td>
-    <td><p align="center"><img src="/Pictures/Screenshot-update.png" height="500"></p></td>
+    <td><p align="center"><img src="/Pictures/Screenshot-login.png"></p></td>
+    <td><p align="center"><img src="/Pictures/Screenshot-view.png"></p></td>
+    <td><p align="center"><img src="/Pictures/Screenshot-update.png"></p></td>
   </tr>
 </table>
 
